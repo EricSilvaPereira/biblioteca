@@ -1,0 +1,9 @@
+com\mycompany\biblioteca\model\Usuario.class
+com\mycompany\biblioteca\controller\LibraryController.class
+com\mycompany\biblioteca\view\Biblioteca.class
+com\mycompany\biblioteca\view\BookView.class
+com\mycompany\biblioteca\view\LibraryView.class
+com\mycompany\biblioteca\model\Emprestimo.class
+com\mycompany\biblioteca\model\LivroEmprestimo.class
+com\mycompany\biblioteca\model\Book.class
+com\mycompany\biblioteca\controller\BookController.class
